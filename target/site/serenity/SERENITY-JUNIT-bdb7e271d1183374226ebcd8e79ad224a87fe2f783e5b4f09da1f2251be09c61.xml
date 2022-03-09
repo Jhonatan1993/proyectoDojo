@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name=": Como paciente" skipped="0" tests="1" time="5.37" timestamp="2022-03-09 01:46:27"><testcase name="Realizar el Registro de un Doctor"><error message="Index: 0, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 0, Size: 0</error><system-err>Index: 0, Size: 0&#13;
+stepsDesinitions.MyStepDefs.elRealizaElRegistroDelMismoEnElAplicativoDeAdministracionDeHospital(MyStepDefs.java:28)&#13;
+✽.el realiza el registro del mismo en el aplicativo de Administracion de Hospital(src/test/resources/features/scenario_outline.feature:13)&#13;
+</system-err></testcase></testsuite>
